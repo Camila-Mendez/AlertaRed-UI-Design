@@ -1,7 +1,7 @@
 
-  # HF UI Design
+  # AlertaRed - Detección de Riesgos en interacciones tecnológicas
 
-  This is a code bundle for HF UI Design. The original project is available at https://www.figma.com/design/qkhqNUpPJNQgGtxb1nhcLx/HF-UI-Design.
+  This is a code bundle for AlertaRed project. 
 
   ## Running the code
 
